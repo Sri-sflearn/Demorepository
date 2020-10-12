@@ -1,0 +1,16 @@
+{
+    "e7ce573abc": {
+        "component://@webruntime/app@en-US": {
+            "dev": "ede600bfef"
+        },
+        "component://localdevserver/home@en-US": {
+            "dev": "c0efafa63a"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "1adcc89400"
+        },
+        "component://c/helloWorld@en-US": {
+            "dev": "0a17e71d1c"
+        }
+    }
+}
